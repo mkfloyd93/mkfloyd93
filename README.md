@@ -26,23 +26,35 @@ Git · GitHub
 
 ---
 
-## 📊 Featured Project
+## 📊 Featured Projects
+
+### 📚 Notion Books — Reading Management & Analytics System
+
+A personal reading management system I designed and built using **Notion and Python** to organize book metadata, automate reading activity, and analyze reading habits.
+
+The project combines relational data modeling, native Notion automations, Python-based Goodreads integration, and custom reporting dashboards.
+
+**Highlights:**
+- Seven interconnected Notion databases supporting reading, series, and challenge management
+- Automated reading logs that calculate daily audiobook listening time
+- Reading session architecture that supports rereads without duplicating book records
+- Python metadata enrichment using Selenium, BeautifulSoup, and the Notion API
+- Technical documentation covering architecture, workflows, and formulas
+
+➡️ **[Explore Notion Books](https://github.com/mkfloyd93/notion-books)**
 
 ### Zephyr Bank Transaction Health Analysis
 
 An end-to-end analysis of **1,500 transactions for a fictional UK fintech neobank**, completed as part of the Onyx Data / DataDNA analytics challenge.
 
-I used Power BI to investigate transaction performance across fraud risk, fee revenue, customer behavior, and operational reliability, then translated the findings into an executive report and actionable business recommendations.
+Using Power BI, I investigated transaction performance across fraud risk, fee revenue, customer behavior, and operational reliability, translating the findings into an executive report and actionable business recommendations.
 
-**The project includes:**
-
+**Highlights:**
 - Data validation and exploratory analysis
-- Power BI data modeling and DAX
-- Four-page interactive Power BI report
-- Executive summary
-- Detailed analysis with supporting visualizations
-- Actionable recommendations and additional data requirements
-- Documented investigation process and analysis decisions
+- Power BI data modeling, DAX, and interactive reporting
+- Investigation of fraud patterns, transaction outcomes, and fee deviations
+- Executive summary with findings, recommendations, and additional data requirements
+- Documented analysis process and decisions
 
 ➡️ **[Explore the Zephyr Bank Transaction Health Analysis](https://github.com/mkfloyd93/zephyr-bank-transaction-health-analysis)**
 
@@ -62,7 +74,7 @@ I'm especially interested in work where I get to:
 
 ## 🌱 What I'm Working On
 
-I'm continuing to build projects that combine my background in **software development and technical delivery** with data analysis, business analysis, and operational problem-solving.
+I'm building on my background in **software engineering and Agile delivery** through projects focused on data analysis, solution design, automation, and business problem-solving.
 
 I'm also a **Certified ScrumMaster (CSM)**.
 
